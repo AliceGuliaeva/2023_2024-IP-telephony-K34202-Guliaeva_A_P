@@ -4,7 +4,7 @@
 <p>Year: 2023/2024 </p>
 <p>Group: K34202</p>
 <p>Author: Guliaeva Alisa</p>
-<p>Lab: Lab2 </p>
+<p>Lab: Lab3 </p>
 <p>Date of create: 01.03.2024 </p>
 <p>Date of finished: 12.03.2024</p>
 <h1>Отчет по лабораторной №3</h1>
@@ -14,8 +14,6 @@
 <p> Изучить программный комплекс Asterisk. Настройка Asterisk для локальных звонков.</p>
 
 <h3>Ход работы:</h3>
-
-<h4>Часть 1</h4>
 
 <p>На виртуальной машине с ОС Ubuntu была выполнена установка Asterisk</p>
 <img src='img/1.png' alt=''>
